@@ -8,4 +8,4 @@ var sum = 0
     sum = sum + items[i].price
     i++
   }
-console.log(`The full price of all products combined is ${sum}`)
+console.log(`The full prices of all products combined is ${sum}`)
